@@ -1,0 +1,7 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "lib:todoDraw"
+
+    - path: "app/Main.hs"
+      component: "todoDraw:exe:todoDraw"

@@ -1,0 +1,13 @@
+s1 = blue square 10 at 50 50
+s2 = red square 20 at 25 25
+s3 = s1 + s2
+s4 = translate s3 40 40
+s5 = s3 + s4
+s5 draw
+s6 = translate s5 100 100
+s6 draw
+s7 = translate s5 100 0
+s7 draw
+s8 = translate s5 0 100
+s8 draw
+
